@@ -100,3 +100,20 @@ h1, h2, h3, h4 {
 .card-descripcion img {
     margin-right: .5rem;
 }
+
+/** Encuentra **/
+
+.encuentra {
+    background-image: url(../img/contacto.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.encuentra .row {
+    height: 25rem;
+}
+
+.encuentra h3 {
+    font-size: 2.2rem;
+    font-weight: 900;
+}
