@@ -170,3 +170,14 @@ h1, h2, h3, h4 {
     font-size: 1.4rem;
     font-weight: 900;
 }
+
+/** Footer **/
+
+.footer.bg-dark {
+    background-color: #333!important;
+}
+
+.footer .nav-link {
+    color: #FFF;
+    text-transform: uppercase;
+}
